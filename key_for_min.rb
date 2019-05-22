@@ -5,7 +5,7 @@
 #   min_value = nil
 #   min_key = nil
 #   hash.each do |k, v|
-#     if min_val == nil
+#     if min_value == nil
 #       min_value = v
 #       min_key = k
 #     elsif min_value > v
